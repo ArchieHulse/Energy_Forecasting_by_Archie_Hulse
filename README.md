@@ -25,6 +25,8 @@ I chose the WindFloat Atlantic Turbine to base my model predictions on since it 
 
 <img width="1098" alt="Screenshot 2023-03-11 at 22 56 31" src="https://user-images.githubusercontent.com/122451494/225287685-d04246d3-168e-4390-acf1-b78d40b7f740.png">
 
+
+
 The turbine performance (SCADA) data consited of the Total Active Power (kWh) of the turbine recorded every 12 minutes from 2017-18, with over 50 thousand entries. Data was sourced from EDP energy (https://www.edp.com/en/edp-stories/offshore-wind).
 
 Meteorological wind speed data, at 100m altitude in (m/s), for the entire European basin polygon at a resolution of 0.3x0.3km squared was obtained through API calls from Meteomatics (https://www.meteomatics.com/en/api/url-creator/), with more than 160 thousand entries.
