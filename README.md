@@ -108,7 +108,7 @@ The Gobierno de España has recently proposed new plans for the construction of 
 
 <img width="465" alt="Screenshot 2023-03-13 at 12 28 49" src="https://user-images.githubusercontent.com/122451494/225288660-ef785caf-2c96-42e0-9df5-40a9a0848c6a.png">
 
-Among the areas proposed in the project are, Menorca and Galicia, which is largest area of the project.
+Among the areas proposed in the project are Menorca and Galicia, which is largest area of the project.
 
 For this reason, I have also forecasted the electrical power output of two more turbines situated 12km off the coast of Galicia and 8km off the coast of Menorca in the Mediterranean.
 
