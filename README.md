@@ -120,12 +120,27 @@ Below is the studies culmination as an interactive map feature, where wind speed
 
 
 
+# *Conclusion:*
+
+**The objective of this study was to show the power of Energy Forecasting using a data centric approach. Since the wind is one of the most difficult meteorological parameters to predict and an energy source that is not 100% reliable. The importance of accurate energy forecasting cannot be understated.**
+
+**It is clear to see that with the ability to predict the electrical energy output from an offshore wind turbine, energy companies can cost save millions, the national grid can better plan and distribute power sustainably and predictably and the wind can become a more reliable clean source of energy for communities, districts and nations to come.**
 
 
+# **Software:**
+
+Software languages used in this study were:
+
+   - **Python**
+   - **ArcGIS**
+   - **SQL**
+   - **Tableau**
 
 
+**Literature Cited:**
 
+   - Lagerveld J (2017)
+*Röckmann, C., Lagerveld, S., Stavenuiter, J. (2017).* **Operation and Maintenance Costs of Offshore Wind Farms and Potential Multi-use Platforms in the Dutch North Sea.** *In: Buck, B., Langan, R. (eds). https://doi.org/10.1007/978-3-319-51159-7_4* (accessed 12 March 2023).
 
-
-
-
+   - Ministerio de  Energia de España
+ *https://energia.gob.es/desarrollo/EnergiaRenovable/Paginas/Renovables.aspx*  (accessed 13 March 2023).
