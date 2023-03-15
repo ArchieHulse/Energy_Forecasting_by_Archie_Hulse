@@ -25,7 +25,6 @@ I chose the WindFloat Atlantic Turbine to base my model predictions on since it 
 
 <img width="1098" alt="Screenshot 2023-03-11 at 22 56 31" src="https://user-images.githubusercontent.com/122451494/225287685-d04246d3-168e-4390-acf1-b78d40b7f740.png">
 
-<img width="1063" alt="Screenshot 2023-03-15 at 13 38 06" src="https://user-images.githubusercontent.com/122451494/225311078-86f2749f-366f-43eb-9afc-bc60917243e6.png">
 
 The turbine performance (SCADA) data consited of the Total Active Power (kWh) of the turbine recorded every 12 minutes from 2017-18, with over 50 thousand entries. Data was sourced from EDP energy (https://www.edp.com/en/edp-stories/offshore-wind).
 
