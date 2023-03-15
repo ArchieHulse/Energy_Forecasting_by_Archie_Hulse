@@ -23,6 +23,8 @@ I chose the WindFloat Atlantic Turbine to base my model predictions on since it 
 ---
 # *DATA:*
 
+<img width="1098" alt="Screenshot 2023-03-11 at 22 56 31" src="https://user-images.githubusercontent.com/122451494/225287685-d04246d3-168e-4390-acf1-b78d40b7f740.png">
+
 The turbine performance (SCADA) data consited of the Total Active Power (kWh) of the turbine recorded every 12 minutes from 2017-18, with over 50 thousand entries. Data was sourced from EDP energy (https://www.edp.com/en/edp-stories/offshore-wind).
 
 Meteorological wind speed data, at 100m altitude in (m/s), for the entire European basin polygon at a resolution of 0.3x0.3km squared was obtained through API calls from Meteomatics (https://www.meteomatics.com/en/api/url-creator/), with more than 160 thousand entries.
@@ -97,10 +99,18 @@ The model is a type of feedforward neural network, where the information flows i
 
 The predictions obtained from the model were then unscaled and plotted against the testing dataset to observe the deviation of our predicted values from actual values. Based on the visualisation, we can conclude that our model was able to successfully replicate the trend of the actual test dataset
 
+<img width="1412" alt="Screenshot 2023-03-15 at 11 52 49" src="https://user-images.githubusercontent.com/122451494/225287973-563b9e03-3811-4c53-812b-464ff7f327fb.png">
+
+---
+# *Future of Offshore Wind Power in Spain*
+
+The Gobierno de España has recently proposed new plans for the construction of offshore wind, covering a combined coastal area of 5,000 km 2  and a total installed capacity of 3,000 MW by 2030.
 
 
 
+Among the areas proposed in the project are, Menorca and Galicia, which is largest area of the project.
 
+For this reason, I have also forecasted the electrical power output of two more turbines situated 12km off the coast of Galicia and 8km off the coast of Menorca in the Mediterranean.
 
 
 
