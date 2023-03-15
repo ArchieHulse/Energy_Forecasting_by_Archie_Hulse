@@ -42,7 +42,7 @@ Meteorological wind speed and direction data, at 100m altitude in (m/s) and (° 
 ![MAP1](https://user-images.githubusercontent.com/122451494/225286659-fe9c507a-4d57-4030-b751-c4f9ca020661.gif)
                         
 ---
-# *Neural Network*
+# *Neural Network:*
 
 I developed a neural network model, using Python Code, called a Multilayer Perceptron (MLP) Regressor for my energy forecast predictions. I chose this model since it adapts to predicting time series data very well and calculated an over all Mean Squared Error (MAE) of 10% from the test data.
 
@@ -102,17 +102,21 @@ The predictions obtained from the model were then unscaled and plotted against t
 <img width="1412" alt="Screenshot 2023-03-15 at 11 52 49" src="https://user-images.githubusercontent.com/122451494/225287973-563b9e03-3811-4c53-812b-464ff7f327fb.png">
 
 ---
-# *Future of Offshore Wind Power in Spain*
+# *Future of Offshore Wind Power in Spain:*
 
 The Gobierno de España has recently proposed new plans for the construction of offshore wind, covering a combined coastal area of 5,000 km 2  and a total installed capacity of 3,000 MW by 2030.
 
-
+<img width="465" alt="Screenshot 2023-03-13 at 12 28 49" src="https://user-images.githubusercontent.com/122451494/225288660-ef785caf-2c96-42e0-9df5-40a9a0848c6a.png">
 
 Among the areas proposed in the project are, Menorca and Galicia, which is largest area of the project.
 
 For this reason, I have also forecasted the electrical power output of two more turbines situated 12km off the coast of Galicia and 8km off the coast of Menorca in the Mediterranean.
 
+---
 
+# *Map:*
+
+Below is the studies culmination as an interactive map feature, where wind speed and direction can be turned on or off with a time bar and legend to show the temporal data visually.
 
 
 
