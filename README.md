@@ -118,7 +118,7 @@ For this reason, I have also forecasted the electrical power output of two more 
 
 Below is the studies culmination as an interactive map feature, where wind speed and direction can be turned on or off with a time bar and legend to show the temporal data visually.
 
-![map2](https://github.com/ArchieHulse/Energy_Forecasting_by_Archie_Hulse/blob/main/map2.mov)
+[map2](https://github.com/ArchieHulse/Energy_Forecasting_by_Archie_Hulse)
 
 ---
 
