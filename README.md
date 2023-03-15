@@ -30,8 +30,11 @@ Meteorological wind speed and direction data, at 100m altitude in (m/s) and (° 
                         - Spanish Government Proposed Menorca Wind farm (40.97 N, 3.98 W), Mediterranean Sea
                         - Spanish Government Proposed Galicia Wind farm (44.60 N, -7.80 W), North Atlantic
                         
+
+                        
 <img width="862" alt="Screenshot 2023-03-15 at 10 07 03" src="https://user-images.githubusercontent.com/122451494/225266767-90d41269-7863-4d71-8ca2-b7488254255d.png">
 
+<img width="423" alt="Screenshot 2023-03-15 at 10 09 05" src="https://user-images.githubusercontent.com/122451494/225267046-fc48ce58-bbd0-45d2-9efe-6e9df831c143.png">
                         
 ---
 # *Neural Network*
