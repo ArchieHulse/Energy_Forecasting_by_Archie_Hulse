@@ -37,7 +37,7 @@ Meteorological wind speed and direction data, at 100m altitude in (m/s) and (° 
 
 <img width="423" alt="Screenshot 2023-03-15 at 10 09 05" src="https://user-images.githubusercontent.com/122451494/225267046-fc48ce58-bbd0-45d2-9efe-6e9df831c143.png">
 
-![gifo](https://user-images.githubusercontent.com/122451494/225284612-b2f3d5d4-81da-4141-976e-d024c634fcf1.gif)
+![MAP1](https://user-images.githubusercontent.com/122451494/225286659-fe9c507a-4d57-4030-b751-c4f9ca020661.gif)
                         
 ---
 # *Neural Network*
