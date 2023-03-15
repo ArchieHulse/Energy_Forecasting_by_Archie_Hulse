@@ -134,7 +134,7 @@ https://user-images.githubusercontent.com/122451494/225304064-fcfe6c3e-0a88-4c7f
 
 ---
 
-# **Software:**
+**Software:**
 
 Software languages used in this study were:
 
