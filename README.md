@@ -84,6 +84,8 @@ The model is a type of feedforward neural network, where the information flows i
 - RMSE score of 14.76, R2 score of 0.98 and a MAE score of 10.53
 - Forecasted wind speed and direction data at 6 hour intervals, for the next 5 days was fitted to my model so that it could predict the corresponding power made by the turbine.
 
+<img width="622" alt="Screenshot 2023-03-12 at 19 58 52" src="https://user-images.githubusercontent.com/122451494/225266461-e8fe8c05-cd16-441c-90dd-46da734ab5d8.png">
+
 
 
 
