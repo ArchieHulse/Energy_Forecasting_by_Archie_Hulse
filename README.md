@@ -95,6 +95,8 @@ The model is a type of feedforward neural network, where the information flows i
 
 <img width="622" alt="Screenshot 2023-03-12 at 19 58 52" src="https://user-images.githubusercontent.com/122451494/225266461-e8fe8c05-cd16-441c-90dd-46da734ab5d8.png">
 
+The predictions obtained from the model were then unscaled and plotted against the testing dataset to observe the deviation of our predicted values from actual values. Based on the visualisation, we can conclude that our model was able to successfully replicate the trend of the actual test dataset
+
 
 
 
