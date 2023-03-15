@@ -112,3 +112,4 @@ The model is a type of feedforward neural network, where the information flows i
 
 
 
+
