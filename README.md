@@ -120,12 +120,15 @@ Below is the studies culmination as an interactive map feature, where wind speed
 
 
 
+---
+
 # *Conclusion:*
 
 **The objective of this study was to show the power of Energy Forecasting using a data centric approach. Since the wind is one of the most difficult meteorological parameters to predict and an energy source that is not 100% reliable. The importance of accurate energy forecasting cannot be understated.**
 
 **It is clear to see that with the ability to predict the electrical energy output from an offshore wind turbine, energy companies can cost save millions, the national grid can better plan and distribute power sustainably and predictably and the wind can become a more reliable clean source of energy for communities, districts and nations to come.**
 
+---
 
 # **Software:**
 
