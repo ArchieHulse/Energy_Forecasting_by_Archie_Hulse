@@ -5,6 +5,8 @@
 *(WindFloat Atlantic offshore wind farm, situated 12km off the coast of Portugal)*
 
 ---
+# [LINK TO PRESENTATION](https://arcg.is/0WvD8n)
+---
 # *Study Objective:*
 
 The main aim of this study was to predict the electricity production of 3 offshore wind turbines up to 5 days ahead of time.
